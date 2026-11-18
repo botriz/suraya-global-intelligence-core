@@ -1,0 +1,13 @@
+{
+  "name": "suraya-global-intelligence-core",
+  "version": "1.0.1",
+  "private": true,
+  "type": "module",
+  "description": "Suraya encrypted central identity and governance state core",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}

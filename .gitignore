@@ -27,8 +27,13 @@ render.experimental.xml
 *.jks
 *.keystore
 
-# Google Services (e.g. APIs or Firebase)
+# Google Services (e.g., APIs or Firebase)
 google-services.json
 
 # Android Profiling
 *.hprof
+
+# Encrypted Suraya core state and local secrets
+/secure/
+/.env
+*.tmp
